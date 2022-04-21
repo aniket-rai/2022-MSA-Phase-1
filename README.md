@@ -20,8 +20,8 @@ This repository contains all the necessary material that was required to complet
 
 - [x] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
 - [x] [1. Git Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/1.%20Git%20workshop)
-- [ ] [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/)
-- [ ] [2. Python Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/2.%20Python%20workshop)
+- [x] [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/)
+- [x] [2. Python Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/2.%20Python%20workshop)
 - [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
 - [ ] [3. RESTful-API workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/3.%20RESTful-API%20workshop)
 - [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/)
