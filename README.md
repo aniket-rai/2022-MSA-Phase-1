@@ -18,6 +18,7 @@ This repository contains all the necessary material that was required to complet
 
 ## Checklist :white_check_mark:
 
+- [x] [AI & Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/)
 - [x] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
 - [x] [1. Git Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/1.%20Git%20workshop)
 - [x] [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/)
