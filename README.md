@@ -29,14 +29,14 @@ This repository contains all the necessary material that was required to complet
 - [ ] [4. Relational DB workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/4.%20Relational%20DB%20workshop)
 - [ ] [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)
 - [ ] [5. C# workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/5.%20C%23%20workshop)
-- [ ] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
+- [x] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
 - [x] [6. HTML & CSS workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/6.%20HTML%2BCSS%20workshop)
-- [ ] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/)
+- [x] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/)
 - [x] [7. JavaScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/7.%20JS%20workshop)
 - [x] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/)
 - [x] [8. TypeScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/8.%20Typescript%20workshop)
-- [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/)
-- [ ] [9. React workshop](./9.%20React%20workshop/)
+- [x] [React](https://docs.microsoft.com/en-us/learn/paths/react/)
+- [x] [9. React workshop](./9.%20React%20workshop/)
 
 ---
 
