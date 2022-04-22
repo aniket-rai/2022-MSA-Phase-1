@@ -13,7 +13,7 @@ JS is a programming language that is used to create dynamic content on a webpage
   * The function sends an alert, which shows up as a popup on your browser when it is triggered
   * The function is referenced in `js-workshop.html` because within the html head, there is a `<script></script>` tag containing a reference to the `alerter.js` file.
 * Now let's make this page a little bit more interesting:
-    - [ ] Let's make the `sendAlert` function also show the General Kenobi GIF that is on the page.
-      - [ ] Start by referencing the id element within the html by using `document.getElementById()` so that you have access to the HTML element in JS
-      - [ ] Set the hidden attribute on the document to false so that the image becomes visible when the function is called
-      - [ ] Edit the HTML so that hidden is true by default 
+    - [x] Let's make the `sendAlert` function also show the General Kenobi GIF that is on the page.
+      - [x] Start by referencing the id element within the html by using `document.getElementById()` so that you have access to the HTML element in JS
+      - [x] Set the hidden attribute on the document to false so that the image becomes visible when the function is called
+      - [x] Edit the HTML so that hidden is true by default 
