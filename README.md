@@ -34,7 +34,7 @@ This repository contains all the necessary material that was required to complet
 - [ ] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/)
 - [x] [7. JavaScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/7.%20JS%20workshop)
 - [x] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/)
-- [ ] [8. TypeScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/8.%20Typescript%20workshop)
+- [x] [8. TypeScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/8.%20Typescript%20workshop)
 - [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/)
 - [ ] [9. React workshop](./9.%20React%20workshop/)
 
