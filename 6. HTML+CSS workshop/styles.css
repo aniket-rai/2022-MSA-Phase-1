@@ -1,4 +1,20 @@
 body {
-    background-color: beige;
-    color: #800080;
+    background-color: purple;
+    color: white;
+}
+
+li {
+    background-color: red;
+}
+
+.middle-align {
+    text-align: center;
+}
+
+#button {
+    background-color: green;
+}
+
+.arbitrary-class {
+    background-color: red;
 }

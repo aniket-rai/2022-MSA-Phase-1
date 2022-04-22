@@ -17,10 +17,10 @@ HyperText Markup Language(HTML) is what the internet is fundamentally made out o
   * `<head></head>` contains the title of the page, and other metadata style info, such as related files, etc.
   * `<body></body>` contains the actual content of the page.
 * We will start by adding some HTML to the page:
-  - [ ] Create an additonal list item in the list called List Item Three
-  - [ ] Add a row to the table
-  - [ ] Create a new block element containing some text about yourself :)
-  - [ ] Create an editable text field
+  - [x] Create an additonal list item in the list called List Item Three
+  - [x] Add a row to the table
+  - [x] Create a new block element containing some text about yourself :)
+  - [x] Create an editable text field
 
 ## CSS
 Cascading Style Sheets (CSS) is how we _style_ HTML. It is how we make HTML look pretty, without the need to inline the styling on every element.
@@ -32,10 +32,10 @@ Cascading Style Sheets (CSS) is how we _style_ HTML. It is how we make HTML look
   * You will notice that there is a single bit of styling in this file which changes the **body** element of the html page.
   * CSS uses _selectors_ to define what elements the styling will target. This lets us target multiple different elements, and allows us to be quite specific about what we can change.
 * Let's make some styling changes:
-    - [ ] Change the background colour to purple for the document
-    - [ ] Change the text colour to white for the document
-    - [ ] Add Some Selectors
-      - [ ] Make the list have a different background colour
-      - [ ] Reference the button using an ID selector and make the button green
-      - [ ] Reference the table using a class selector and make the table background colour red
-    - [ ] Center the button to the middle of the page
+    - [x] Change the background colour to purple for the document
+    - [x] Change the text colour to white for the document
+    - [x] Add Some Selectors
+      - [x] Make the list have a different background colour
+      - [x] Reference the button using an ID selector and make the button green
+      - [x] Reference the table using a class selector and make the table background colour red
+    - [x] Center the button to the middle of the page
