@@ -26,7 +26,7 @@ This repository contains all the necessary material that was required to complet
 - [x] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
 - [x] [3. RESTful-API workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/3.%20RESTful-API%20workshop)
 - [x] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/)
-- [ ] [4. Relational DB workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/4.%20Relational%20DB%20workshop)
+- [x] [4. Relational DB workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/4.%20Relational%20DB%20workshop)
 - [x] [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)
 - [x] [5. C# workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/5.%20C%23%20workshop)
 - [x] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
