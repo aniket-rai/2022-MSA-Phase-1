@@ -52,7 +52,6 @@ As you go through and do these modules, you'll find that you need quite a few to
   - [x] [.NET](https://dotnet.microsoft.com/en-us/download)
 - [x] Development Environments
   - [x] [VS Code](https://code.visualstudio.com/) a lightweight IDE suitable for developing any language, with a bit of fine-tuning (I'd recommend googling on how to set it up for use)
-  - [ ] [JetBrains Rider](https://www.jetbrains.com/rider/) is an alternative IDE to Visual Studio (and, IMO, runs about a million times faster)
-    - [ ] [Free License](https://www.jetbrains.com/community/education/#students) for students
+  - [x] [JetBrains Rider](https://www.jetbrains.com/rider/) is an alternative IDE to Visual Studio (and, IMO, runs about a million times faster)
   - [x] [Visual Studio](https://visualstudio.microsoft.com/vs/community/) the c# IDE
 ---
